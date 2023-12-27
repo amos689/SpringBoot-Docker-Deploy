@@ -90,7 +90,7 @@ logging:
 
 * 屏蔽IDEA中Maven项目打包时的test周期
 
-<img src="C:\Users\12972\Desktop\deploy\images\MavenOP1.png" alt="image-20231227111333741" style="zoom:80%;" />
+<img src="images/MavenOP1.png" alt="MavenOP1" style="zoom:80%;" />
 
 * 在Maven使用package周期将微服务形成新的jar包, 并上传到Linux服务器/mydocker目录下
 
@@ -143,9 +143,9 @@ EXPOSE 5000
 
 * 执行 `docker compose up`或者执行`docker compose up -d`
 
-<img src="C:\Users\12972\Desktop\deploy\images\ComposeOP01.png" alt="image-20231227112636674" />
+![ComposeOP01](images/ComposeOP01.png)
 
-<img src="C:\Users\12972\Desktop\deploy\images\ComposeOP02.png" alt="image-20231227112722041" style="zoom:80%;" />
+<img src="images/ComposeOP02.png" alt="ComposeOP02" style="zoom:80%;" />
 
 ## 7. 创建MySQL表
 
